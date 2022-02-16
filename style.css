@@ -13,7 +13,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: wheat;
+    background-color: #f5deb3;
 }
 
 main
@@ -23,8 +23,10 @@ main
     height: auto;
     display: flex;
     justify-content: center;
-    box-shadow: -5px 5px 5px 5px rgba(0, 0, 0, 0.171);
+    box-shadow:  20px 20px 60px #d0bd98,
+             -20px -20px 60px #ffffce;
     align-items: center;
+    border-radius: 20px;
 }
 
 h1, p
